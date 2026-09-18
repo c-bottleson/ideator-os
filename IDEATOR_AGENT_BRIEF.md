@@ -8,6 +8,17 @@
 
 ---
 
+## 0. Ecosystem (motion OS)
+
+Ideator is one bot with three tools: **Forge**, **Boot**, **Ass-kick**.  
+Portfolio stages: Ideating → Building → Bettering → Maintaining → **Later** (not “shipped/done”).  
+See `docs/ecosystem.md`, `docs/boot.md`, `docs/ass-kick.md`, `portfolio/`.
+
+Weekly SoT proposals from `updates/` (opt-in apply). Human weekly: `newsletter/`.
+
+
+---
+
 ## 1. Who it is for
 
 **Primary tribe:** Ideators — people whose craft is generating and refining ideas, and whose failure mode is dying in the notebook / never leaving the tab.

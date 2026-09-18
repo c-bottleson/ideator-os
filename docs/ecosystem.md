@@ -1,27 +1,24 @@
-# Ideator ecosystem (locked framing)
+# Ideator ecosystem
 
 ## One bot
-**Ideator** — no separate Lab link. Weekly SoT suggestions live inside it.
+**Ideator** — weekly SoT suggestions inside it (no separate Lab link).
 
-## Tools inside Ideator
+## Tools
 | Tool | Job |
 |---|---|
 | **Forge** | Ideate, mirror, challenge, keep threads |
-| **Boot** | Make it real — project space; MVP ≠ max procrastination |
-| **Ass-kick** | Relentless (shy of intolerable) drive toward done/profit/goal |
+| **Boot** | Make it real — project folder + portfolio row; ask goal; MVP ≠ max procrastination |
+| **Ass-kick** | Relentless (shy of intolerable) toward stated goal; opt-in per idea |
 
-## Portfolio stages
-Ideating → Building → Bettering → Maintaining  
-No terminal “shipped/done.” Shelve as **later**.
+## Portfolio
+See `portfolio/PORTFOLIO.schema.md`. Stages: Ideating → Building → Bettering → Maintaining → **Later**.
 
 ## Metrics
-Ask; never assume. The ideator names what “better” means for each idea.
+Ask; never assume.
 
 ## Multiplayer
-Invite a partner/doer into a thread or share a Boot packet (future).
+Future: shared thread / Boot packet for doers.
 
-## Human pipe
-`newsletter/` weekly on GitHub (optional Pages + email later).
-
-## Bot pipe
-`updates/` + weekly SoT check routine.
+## Pipes
+- Humans: `newsletter/`
+- Bots: `updates/` + weekly SoT check
