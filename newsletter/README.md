@@ -23,3 +23,7 @@ One issue per week.
 
 ## Language
 Parked work is **later**, not done/abandoned/failed.
+
+## Latest
+
+[Issue 1 — Motion, not museums](./_posts/2026-09-18-issue-1.md)
