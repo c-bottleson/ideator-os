@@ -3,7 +3,7 @@
 **Source of truth** for the Ideator agent system (brief, install notes, prompts, cheat card).
 
 > **You don’t need GitHub to use Ideator.**  
-> Friends get a **Grok Bot template link** (one-tap import).  
+> Friends get this link: **https://x.ai/bot/gGMuApZ-CbB7qqgdgikV1** (one-tap import).  
 > This repo is for the maintainer: edit once here instead of copy-pasting across chats.
 
 ## What Ideator is
