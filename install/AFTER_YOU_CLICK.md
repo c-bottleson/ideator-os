@@ -7,12 +7,9 @@ You do **not** paste the link into a chat. You click it.
 3. Tap **Add bot** / install Ideator when prompted.  
 4. A starter message may appear automatically: *“Hi Ideator. Please write your memories.”*  
    - You didn’t type that — the app did. Leave it. Send/continue.  
-5. Ideator should ask: **Where do your ideas show up first?**  
-   - Pick the closest option, or type your own.  
-6. Then: **When one is buzzing, what’s your real next step?**  
-7. Then Ideator should offer to **open a browser** so you can sign into Google/Chrome.
-   - If sync is on, it can use tabs from your other devices (the surprising part).
-   - Or paste **5–15 links** if you prefer.  
+5. Ideator should ask what **ideas** you’ve been sitting with (or what you **want**, if you’re blank).  
+6. You’ll Forge together — mirror until it matches.  
+7. When useful: tabs first win (Sync/sign-in on phone, or paste on computer).  
 
 **Skip anything** that says New Project, Repo, or coding workspace.
 
