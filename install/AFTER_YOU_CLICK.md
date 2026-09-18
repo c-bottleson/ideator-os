@@ -10,7 +10,9 @@ You do **not** paste the link into a chat. You click it.
 5. Ideator should ask: **Where do your ideas show up first?**  
    - Pick the closest option, or type your own.  
 6. Then: **When one is buzzing, what’s your real next step?**  
-7. Then: paste **5–15 links/tabs** for a first win (cluster / mood-board read).  
+7. Then Ideator should offer to **open a browser** so you can sign into Google/Chrome.
+   - If sync is on, it can use tabs from your other devices (the surprising part).
+   - Or paste **5–15 links** if you prefer.  
 
 **Skip anything** that says New Project, Repo, or coding workspace.
 

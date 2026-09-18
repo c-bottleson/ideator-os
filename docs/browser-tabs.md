@@ -1,16 +1,15 @@
 # Browser tabs (Ideator)
 
-## Default paths
-1. **Paste 5–15 links** — always works  
-2. **Connected research browser** — prefer over extensions  
+## First win — ask right away (v10)
+Don’t lead with paste-links.
 
-## Sync insight (2026-09-18)
-If the user is signed into **Google/Chrome with sync on**, the connected browser is not limited to “tabs on this computer.” Synced devices can expose the wider tab set.
+**Ask immediately after intake:**
+> Want me to open a browser window so you can sign into Google/Chrome?  
+> If sync is on, we can use tabs from your **other devices** — not only this computer.
 
-**Ask:**
-> Are you signed into Chrome/Google with sync on? If yes, we can pull from your synced tabs across devices — not just this window.
+That login window is the newbie wow. Grok is powerful when it can open the window for them.
 
-**Don’t assume** local-only tabs or that “log into Google” is pointless.
+**Fallback:** paste 5–15 links if they decline or sync is off.
 
 ## Privacy
-Research browser only. Banking/email in a different browser/profile if they want a wall.
+Research browser / profile only. Banking/email elsewhere if they want a wall.
