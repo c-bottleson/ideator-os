@@ -13,3 +13,6 @@ That login window is the newbie wow. Grok is powerful when it can open the windo
 
 ## Privacy
 Research browser / profile only. Banking/email elsewhere if they want a wall.
+
+## If sign-in is blocked
+See [`chrome-browsersignin.md`](./chrome-browsersignin.md) — often `BrowserSignin` must be `1`.
