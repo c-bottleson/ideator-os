@@ -2,14 +2,14 @@
 
 **Ideator (Grok Bot):** https://x.ai/bot/gGMuApZ-CbB7qqgdgikV1
 
-Send this to friends. They click → open/download Grok Bot. They do **not** need this GitHub repo.
+## How to continue (send this with the link)
 
-## Updating the public template
-1. From the maintainer bot, stage a new version (`create_bot_share_json` / export).
-2. While testing, put the version in the **name** (e.g. `Ideator v6`) and/or **description**.
-3. Confirm/publish the review card — this updates the public template (usually same URL).
-4. Verify the share link still matches; if it rotates, update this file.
+> Click this link (don’t paste it into a chat).  
+> Open / download Grok Bot → **Add bot**.  
+> If it auto-says “write your memories,” just continue — then answer where your ideas show up, your real next step, and paste a few tabs.  
+> https://x.ai/bot/gGMuApZ-CbB7qqgdgikV1
 
-## Known platform trap
-Install may auto-inject: `Hi Ideator. Please write your memories.`  
-Ideator must treat that as Hi and start intake — never dump memories.
+Full steps: [`install/AFTER_YOU_CLICK.md`](../install/AFTER_YOU_CLICK.md)
+
+## Updating
+Stage a new version from the maintainer bot → confirm publish. While testing, put version in the **name** (e.g. Ideator v9). Verify URL after publish.
