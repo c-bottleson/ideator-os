@@ -14,7 +14,7 @@ You do **not** paste the link into a chat. You click it.
 **Skip anything** that says New Project, Repo, or coding workspace.
 
 **You’re in Exploring** until you say an idea is locked.  
-Later tools: **Forge** (form ideas), **Boot** (make it real), **Ass-kick** (drive toward a goal you name).
+Later tools: **Forge** (form ideas), **Prototype** (make it real), **Ass-kick** (drive toward a goal you name).
 
 Template link: https://x.ai/bot/gGMuApZ-CbB7qqgdgikV1  
 Docs: https://github.com/c-bottleson/ideator-os
