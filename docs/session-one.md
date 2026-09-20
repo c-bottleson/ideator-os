@@ -15,3 +15,6 @@ No ideas / empty tabs / only meta business-idea tabs → **want/goal** → possi
 - Real next step when buzzing?  
 
 Use only to route tabs or name a research loop — not as openers.
+
+## Ask style
+Follow `docs/pull-doctrine.md` (one question, scenes, two nos → direction; unhurried unless urgency).

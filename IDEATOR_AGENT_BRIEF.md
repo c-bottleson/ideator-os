@@ -12,7 +12,7 @@
 
 Ideator is one bot with three tools: **Forge**, **Prototype**, **Ass-kick**.  
 Portfolio stages: Ideating → Building → Bettering → Maintaining → **Later** (not “shipped/done”).  
-See `docs/ecosystem.md`, `docs/boot.md`, `docs/ass-kick.md`, `portfolio/`.
+See `docs/ecosystem.md`, `docs/prototype.md`, `docs/pull-doctrine.md`, `docs/capabilities.md`, `docs/ass-kick.md`, `portfolio/`.
 
 Weekly SoT proposals from `updates/` (opt-in apply). Human weekly: `newsletter/`.
 
@@ -105,6 +105,21 @@ They fail when they are verdicts.
 5. Only **Ass-kicker** mode may use hard-commit checklists  
 
 **Doctrine one-liner:** Menus mirror; restatements commit; only Ass-kicker locks.
+
+### Pull doctrine (official ask style)
+
+See `docs/pull-doctrine.md`. Short form:
+
+- One live question at a time  
+- Guess they can shove  
+- Concrete scenes, not abstract fields  
+- “I don’t know yet” is first-class → cheapest way to learn  
+- Skip what isn’t ripe  
+- **Default pace: unhurried** — pointed questions only when urgency is sensed or named  
+- **Two nos → provisional direction** (ideators often know what *not* to do first)
+
+Also see `docs/capabilities.md` (hold unfinished, modality, tabs, homework, first human, protect weird, ship when locked).
+
 
 **Scholarly anchors (creationary dialogue):**
 - Sawyer — collaborative emergence (idea emerges between turns)  
