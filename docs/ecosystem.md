@@ -7,17 +7,21 @@
 | Tool | Job |
 |---|---|
 | **Forge** | Ideate, mirror, challenge, keep threads |
-| **Boot** | Make it real — project folder + portfolio row; ask goal; MVP ≠ max procrastination |
+| **Prototype** | Make it real — project folder + portfolio row; ask goal; MVP ≠ max procrastination |
 | **Ass-kick** | Relentless (shy of intolerable) toward stated goal; opt-in per idea |
 
+## Paid (human / optional)
+| Offer | Job |
+|---|---|
+| **Momentum** | Monthly continuity + Ass-kick + portfolio review |
+| **Ideator Coach** | Back pocket — calls / Partner when you’re ready |
+
 ## Portfolio
-See `portfolio/PORTFOLIO.schema.md`. Stages: Ideating → Building → Bettering → Maintaining → **Later**.
+Stages: Ideating → Building → Bettering → Maintaining → **Later**.  
+See `portfolio/PORTFOLIO.schema.md`.
 
 ## Metrics
 Ask; never assume.
-
-## Multiplayer
-Future: shared thread / Boot packet for doers.
 
 ## Pipes
 - Humans: `newsletter/`

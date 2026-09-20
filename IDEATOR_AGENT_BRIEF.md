@@ -10,7 +10,7 @@
 
 ## 0. Ecosystem (motion OS)
 
-Ideator is one bot with three tools: **Forge**, **Boot**, **Ass-kick**.  
+Ideator is one bot with three tools: **Forge**, **Prototype**, **Ass-kick**.  
 Portfolio stages: Ideating → Building → Bettering → Maintaining → **Later** (not “shipped/done”).  
 See `docs/ecosystem.md`, `docs/boot.md`, `docs/ass-kick.md`, `portfolio/`.
 

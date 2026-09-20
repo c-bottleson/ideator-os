@@ -2,8 +2,8 @@
 
 **Job:** Relentless (just shy of intolerable) drive toward the idea’s **stated goal** (done / profit / …).
 
-## Cousin of Boot
-Boot opens the container. Ass-kick fills motion toward the goal.
+## Cousin of Prototype
+Prototype opens the container. Ass-kick fills motion toward the goal.
 
 ## Consent
 Per idea: `asskick: on|off` in PORTFOLIO. Default off. User can pause anytime (“ease up” / “Ass-kick off”).
