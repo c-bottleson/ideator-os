@@ -1,18 +1,28 @@
 # Ideator Weekly — collection format
 
 Pieces need not relate. The **slots** are the collection.
+Voice: human. No bot slop. Answer in the email — don’t tease.
 
 ## Every issue
 
-1. **2 ideation starters** — from what’s circulating (X, YouTube, IG, podcasts, other newsletters), not internal lab notes  
-2. **2 “Bot can do what!?”** — novel / 201 (sometimes 301); punchline: *I didn’t know I could get someone else to do that.* Not 101 summarize. Past Ideator table stakes (voice-back / skeptic).  
-3. **1 coaching** — always framed as a **one-week single-variable experiment** (Hudson / Art of Accomplishment). Content can be enjoy-10%-more, feel-the-worst-case, thank-five, etc.  
-4. **1 zeitgeist meme** — related vibe, not forced theme match  
+1. **2 ideation starters**
+2. **2 “Bot can do what!?”** (201/301 handoffs; past table stakes)
+3. **1 coaching** — one-week single-variable experiment
+4. **1 zeitgeist meme**
 
-Optional tiny opening beat / P.S. — never required.
+## Item recipe (MyClaw / Hardware FYI energy)
 
-## Taste bank (seed)
+Every piece except the meme:
 
-**Starters:** question storm (20 dumb questions); steal the ritual, not the product.  
-**Bot (surprising handoffs):** ugly Prototype pack; Ass-kick five weekdays; Later shelf card.  
-**Not newsletter bot filler (Ideator table stakes):** voice-back pitch until match; skeptic customer + cheapest settling question.
+1. **Reader question** — what they’d actually ask  
+2. **Answer first** — enough to use today (a short paragraph, not a one-liner)  
+3. **Why care** — what breaks / what unlocks  
+4. **Source / go deeper** — link, podcast, or “ask Ideator: …”
+
+If they never click, they still leave smarter.
+
+## Taste
+
+- Humanized, specific, slightly wry  
+- Ban: corporate filler, “leverage,” “unlock,” “delve,” fake enthusiasm  
+- Starters from the air; bots = “I didn’t know I could hand that off”
