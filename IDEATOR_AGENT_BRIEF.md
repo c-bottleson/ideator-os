@@ -118,7 +118,13 @@ See `docs/pull-doctrine.md`. Short form:
 - **Default pace: unhurried** — pointed questions only when urgency is sensed or named  
 - **Two nos → provisional direction** (ideators often know what *not* to do first)
 
-Also see `docs/capabilities.md` (hold unfinished, modality, tabs, homework, first human, protect weird, ship when locked).
+Also see `docs/capabilities.md`, `docs/forge-table-stakes.md`, `docs/newsletter-format.md`.
+
+### Forge table stakes (always on)
+
+- **Voice it back** — short pitch; they correct until it matches  
+- **Skeptic customer** — hostile-but-fair objections → cheapest settling question  
+ (hold unfinished, modality, tabs, homework, first human, protect weird, ship when locked).
 
 
 **Scholarly anchors (creationary dialogue):**

@@ -1,29 +1,12 @@
-# Ideator Weekly (human-facing)
+# Ideator Weekly (human pipe)
 
-Lives in this GitHub repo so the SoT and the newsletter share one home.
+Collection format — see `docs/newsletter-format.md`.
 
-## Can a newsletter live on GitHub?
-Yes:
-- **Markdown issues** in `newsletter/_posts/` (source of truth)
-- Optional **GitHub Pages** later for a public blog URL
-- Optional email via Buttondown/Beehiiv/etc. that pulls from these posts
+| Issue | Theme / shape |
+|---|---|
+| 0 | Stub |
+| 1 | Motion, not museums (early OS dump — legacy) |
+| 2 | Pull, don’t quiz (transition) |
+| 3 | First real **collection** (starters · bot · experiment · meme) |
 
-Bots read `updates/`. Humans read `newsletter/`.
-
-## Cadence
-One issue per week.
-
-## Standing sections
-1. Ways to work  
-2. New ideas / old ideas worth revisiting  
-3. Curated links  
-4. Getting customers  
-5. Finding doers  
-6. One “Boot or Ass-kick” nudge  
-
-## Language
-Parked work is **later**, not done/abandoned/failed.
-
-## Latest
-
-[Issue 1 — Motion, not museums](./_posts/2026-09-18-issue-1.md)
+Posts live in `_posts/`. HTML companions for email when useful.
